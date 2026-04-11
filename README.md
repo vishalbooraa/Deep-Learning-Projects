@@ -1,17 +1,28 @@
-🧠 Deep Learning Monorepo (PyTorch)
-📌 Overview
+# 🧠 Deep Learning Monorepo (PyTorch)
 
-This repository is a monorepo for deep learning projects built using PyTorch. It is designed to organize multiple experiments, models, and utilities in a scalable and maintainable structure.
+## 📌 Overview
 
-The goal of this repo is to:
+This repository is a **monorepo for deep learning projects built using PyTorch**. It is structured to efficiently manage multiple experiments, models, and utilities in a **scalable, modular, and maintainable way**.
 
-Centralize all deep learning work in one place
-Promote code reuse across projects
-Maintain clean and modular architecture
-Enable easy experimentation and deployment
+### 🎯 Goals
 
-🚀 Tech Stack
-Framework: PyTorch
-Language: Python
-Tools: NumPy, Pandas, Matplotlib, Scikit-learn
-Optional: CUDA (for GPU acceleration)
+* Centralize all deep learning projects in one place
+* Promote **code reuse** across different experiments
+* Maintain a **clean and modular architecture**
+* Enable **fast experimentation and easy deployment**
+
+---
+
+## 🚀 Tech Stack
+
+* **Framework:** PyTorch
+* **Language:** Python
+* **Libraries & Tools:**
+
+  * NumPy
+  * Pandas
+  * Matplotlib
+  * Scikit-learn
+* **Optional:** CUDA (for GPU acceleration)
+
+---
