@@ -1,4 +1,8 @@
-computer vision techniques, and model optimization.
+# PyTorch Fundamentals & CNN Practice
+
+Welcome to my PyTorch practice repository! This project serves as a hands-on exploration of deep learning fundamentals, showcasing my active learning and implementation of core PyTorch concepts. 
+
+As an aspiring AI/ML engineer and full-stack developer, I am using this repository to build a strong foundation in neural networks, computer vision techniques, and model optimization.
 
 ## 🚀 Repository Contents
 
